@@ -1,2 +1,2 @@
 # meu primeiro git - estou aprendendo!
-teste git. estou aprendendo 
+tese feito e deu certo.
